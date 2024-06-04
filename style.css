@@ -1,0 +1,32 @@
+html{
+    background-color:#7AB2B2;
+}
+img{
+    border-radius: 100%;
+    height: 200px ;
+    width: 200px;
+}
+.A{
+    background-color:#EEF7FF;
+    width:1505px;
+    height: 210px;
+    border-radius: 15px;
+}
+.B{
+    background-color:#EEF7FF;
+    height: 150px;
+    width: 750px;
+    border-radius: 15px;
+}
+.C{
+    background-color:#EEF7FF ;
+    height: 150px;
+    width: 750px;
+    border-radius: 15px;
+}
+.D{
+    background-color:#EEF7FF;
+    width:1505px;
+    height: 150px;
+    border-radius: 15px;
+}
